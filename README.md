@@ -2,6 +2,8 @@
 
 A modern, interactive resume builder application built with React and TypeScript. Create, customize, and export professional resumes with multiple templates and fonts.
 
+#### Demo: https://abhijith126.github.io/resume-builder/
+
 ## Features
 
 - 📝 **Multiple Templates**: Choose from 8 professionally designed resume templates (Editorial, Modern Minimalist, Arctic Frost, Desert Rose, Premium, Modern, Classic, Minimal)
